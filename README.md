@@ -5,7 +5,7 @@
 
 About me 🤠:
 
-- 🔭 I’m currently working on Kosmos GPS and 'Im CTO on Vigsoft, a company located in Barcelona, Spain 🇪🇸
+- 🔭 I’m currently CTO on Vigsoft, a company located in Barcelona, Spain 🇪🇸
 - 🌱 I’m currently learning Machine learning and mobile development 📱
 - 💬 Ask me about JavaScript, PHP, Azure, C, C++, React Native, MySQL and Mongo DB 💻
 - 📫 How to reach me: @JimmyVazz at Instagram, Jimmy Vasquez at Facebook 👨‍💻
