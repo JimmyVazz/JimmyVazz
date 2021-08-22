@@ -5,7 +5,9 @@
 
 About me 🤠:
 
+- 🔭 I’m Tech Mobile leader in Finvero.com, a fintech srartup in MX
 - 🔭 I’m currently Project Lead Developer at Vigsoft, a company located in Barcelona, Spain 🇪🇸
+- 🔭 Also recently, I was choosen to be a Google Developer Studen Leader at México
 - 🌱 I’m currently learning Machine learning and mobile development 📱
 - 💬 Ask me about JavaScript, PHP, Azure, C, C++, React Native, MySQL and Mongo DB 💻 and also Blockchain Technology 🦾
 - 📫 How to reach me: @JimmyVazz at Instagram, Jimmy Vasquez at Facebook 👨‍💻
