@@ -5,7 +5,7 @@
 
 About me 🤠:
 
-- 🔭 I’m Tech Mobile leader in Finvero.com, a fintech srartup in MX
+- 🔭 I’m Tech Mobile Lead in Avera MX, a great e-commerce <3
 - 🔭 I’m currently Project Lead Developer at Vigsoft, a company located in Barcelona, Spain 🇪🇸
 - 🔭 Also recently, I was choosen to be a Google Developer Studen Leader at México
 - 🌱 I’m currently learning Machine learning and mobile development 📱
