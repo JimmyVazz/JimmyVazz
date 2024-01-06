@@ -5,7 +5,7 @@
 
 About me 🤠:
 - ¿Who is Jimmy? Well, I think tech can do many things, that's why I'm on this business. To create, design and help 🧩
-- 🔭 I’m currently Product Owner at Vigsoft, a company located in Barcelona, Spain 🇪🇸
+- 🔭 I’m currently Software Engineer at Walmart, specific talking about the financial services area on CAM (Center America).
 - 🔭 Also recently, I started to learn how to make movies or cinema, I love it 🎥
 - 🌱 I’m currently learning Machine learning and mobile development 📱
 - 💬 Ask me about JavaScript, PHP, Azure, Swift, C, C++, React Native, MySQL and Mongo DB 💻 and also Blockchain Technology 🦾
